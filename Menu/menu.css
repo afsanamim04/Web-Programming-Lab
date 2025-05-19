@@ -1,0 +1,17 @@
+body{
+    margin: 20px;
+}
+#menu-bar{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 20px;
+}
+#menu-item a{
+    text-decoration: none;
+    display: block;
+    color: blue;
+}
+#menu-item a:hover{
+background-color: gray;
+}
